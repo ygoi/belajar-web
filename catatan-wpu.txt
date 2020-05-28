@@ -1,2 +1,4 @@
 Belajar Git dari Web Programming Unpas
 Delete dari line 3 pindah ke line 2
+
+Nambah gambar bagan di paragraf 4
