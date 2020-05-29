@@ -8,3 +8,5 @@
 - Belajar branches
 - Belajar merge
 - Belajar pull request
+- Belajar pull 
+- Belajar push
