@@ -8,3 +8,4 @@
 - Belajar branches
 - Belajar merge
 - Belajar pull request
+- Menambahkan tim Aviv
