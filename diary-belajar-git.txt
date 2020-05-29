@@ -3,4 +3,8 @@
   * mengisi new file
   * melihat insight
 - Belajar commit
+  * commit di master
+  * commit di branch
 - Belajar branches
+- Belajar merge
+- Belajar pull request
