@@ -1,4 +1,6 @@
 - Belajar dari web unpas
 - Belajar master
+  * mengisi new file
+  * melihat insight
 - Belajar commit
 - Belajar branches
